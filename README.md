@@ -20,7 +20,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <br> 🌍  I'm based in India 
 <br> 👀 I’m interested in mobile application development with flutter, iOS native, android native
-<br> 🌱 I’m currently learning clean architecture with TDD, Go, Node.js
+<br> 🌱 I’m currently learning Go
 <br> ✉️  You can contact me at [siddheshnanche96@gmail.com](mailto:siddheshnanche96@gmail.com)
 
 ### Skills  
